@@ -19,10 +19,10 @@ public class App
 
     public static void main( String[] args )
     {   
-        Scanner scn = new Scanner(System.in); 
-        System.out.println("Enter a number : "); 
-        int n = scn.nextInt(); 
-
+        // Scanner scn = new Scanner(System.in); 
+        // System.out.println("Enter a number : "); 
+        // int n = scn.nextInt(); 
+        int n = 10; 
         System.out.println(fact(n)); 
     }
 }
