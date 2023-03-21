@@ -9,7 +9,7 @@ import org.apache.logging.log4j.Logger;
 
 public class App 
 {
-    static final Logger log = LogManager.getLogger(App.class); 
+    private static final Logger log = LogManager.getLogger(App.class); 
     public static double sqrt(double n){
         if(n<0){
             System.out.println("Invalid input for square root"); 

@@ -1,5 +1,5 @@
 
-- name: Pull and run docker image
+- name: Pull and run docker image of scientific calculator
   hosts: localhost
   tasks:
     - name: Start docker service
