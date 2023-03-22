@@ -20,7 +20,7 @@ public class App
         double ans = Math.sqrt(n); 
         
         log.info("Answer of sqrt(" + n + ") is " + ans); 
-        return Math.sqrt(ans); 
+        return ans;  
     }
 
     public static double fact(double n)
@@ -47,6 +47,7 @@ public class App
         {
             System.out.println("Invalid input for natural log"); 
             log.info("Invalid input nl"); 
+            return -1; 
         }
 
         double ans = Math.log(n); 
