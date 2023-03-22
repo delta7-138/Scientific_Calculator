@@ -1,54 +1,12 @@
-23:35:50.887 Answer of 4.0! is 24.0
-23:35:50.890 Answer of 10.0! is 3628800.0
-23:35:50.891 Invalid input n!
-23:35:50.892 Natural Log for 8.0 is 2.0794415416798357
-23:35:50.892 Invalid input nl
-23:35:50.893 Natural Log for 0.0 is -Infinity
-23:35:50.897 Base 10.0 raised to the power 0.0 is 1.0
-23:35:50.897 Base 3.0 raised to the power -2.0 is 0.1111111111111111
-23:35:50.897 Base 2.0 raised to the power 3.4 is 10.556063286183154
-23:35:50.898 Answer of sqrt(9.0) is 3.0
-23:37:21.444 Answer of 4.0! is 24.0
-23:37:21.446 Answer of 10.0! is 3628800.0
-23:37:21.446 Invalid input n!
-23:37:21.447 Natural Log for 8.0 is 2.0794415416798357
-23:37:21.447 Invalid input nl
-23:37:21.447 Invalid input nl
-23:37:21.449 Base 10.0 raised to the power 0.0 is 1.0
-23:37:21.449 Base 3.0 raised to the power -2.0 is 0.1111111111111111
-23:37:21.449 Base 2.0 raised to the power 3.4 is 10.556063286183154
-23:37:21.450 Answer of sqrt(9.0) is 3.0
-23:38:15.255 Answer of 4.0! is 24.0
-23:38:15.262 Answer of 10.0! is 3628800.0
-23:38:15.263 Invalid input n!
-23:38:15.265 Natural Log for 8.0 is 2.0794415416798357
-23:38:15.266 Invalid input nl
-23:38:15.266 Invalid input nl
-23:38:15.275 Base 10.0 raised to the power 0.0 is 1.0
-23:38:15.276 Base 3.0 raised to the power -2.0 is 0.1111111111111111
-23:38:15.276 Base 2.0 raised to the power 3.4 is 10.556063286183154
-23:38:15.278 Answer of sqrt(9.0) is 3.0
-23:39:21.643 Answer of 4.0! is 24.0
-23:39:21.644 Answer of 10.0! is 3628800.0
-23:39:21.644 Invalid input n!
-23:39:21.645 Natural Log for 8.0 is 2.0794415416798357
-23:39:21.645 Invalid input nl
-23:39:21.645 Invalid input nl
-23:39:21.647 Base 10.0 raised to the power 0.0 is 1.0
-23:39:21.648 Base 3.0 raised to the power -2.0 is 0.1111111111111111
-23:39:21.648 Base 2.0 raised to the power 3.4 is 10.556063286183154
-23:39:21.648 Answer of sqrt(9.0) is 3.0
-23:39:21.648 Invalid input for sqrt(n)
-23:39:21.648 Answer of sqrt(180625.0) is 425.0
-23:40:05.039 Answer of 4.0! is 24.0
-23:40:05.041 Answer of 10.0! is 3628800.0
-23:40:05.041 Invalid input n!
-23:40:05.042 Natural Log for 8.0 is 2.0794415416798357
-23:40:05.042 Invalid input nl
-23:40:05.042 Invalid input nl
-23:40:05.042 Base 10.0 raised to the power 0.0 is 1.0
-23:40:05.042 Base 3.0 raised to the power -2.0 is 0.1111111111111111
-23:40:05.042 Base 2.0 raised to the power 3.4 is 10.556063286183154
-23:40:05.043 Answer of sqrt(9.0) is 3.0
-23:40:05.043 Invalid input for sqrt(n)
-23:40:05.043 Answer of sqrt(180625.0) is 425.0
+22/Mar/2023:20:44:07 Fact 4.0 24.0 0
+22/Mar/2023:20:44:07 Fact 10.0 3628800.0 0
+22/Mar/2023:20:44:07 Fact -1.0 -1 0
+22/Mar/2023:20:44:07 NaturalLog 8.0 2.0794415416798357 0
+22/Mar/2023:20:44:07 NaturalLog 0.0 -1 0
+22/Mar/2023:20:44:07 NaturalLog -1.0 -1 0
+22/Mar/2023:20:44:07 Power 10.0 0.0 1.0
+22/Mar/2023:20:44:07 Power 3.0 -2.0 0.1111111111111111
+22/Mar/2023:20:44:07 Power 2.0 3.4 10.556063286183154
+22/Mar/2023:20:44:07 Sqrt 9.0 3.0 0
+22/Mar/2023:20:44:07 Sqrt -1.0 -1 0
+22/Mar/2023:20:44:07 Sqrt 180625.0 425.0 0

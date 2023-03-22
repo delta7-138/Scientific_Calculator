@@ -2,10 +2,10 @@
 <Configuration status="INFO">
     <Appenders>
         <Console name="ConsoleAppender" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{HH:mm:ss.SSS} %msg%n" />
+            <PatternLayout pattern="%d{dd/MMM/yyyy:HH:mm:ss} %msg%n" />
         </Console>
         <File name="FileAppender" fileName="logs/sci_calc.log" immediateFlush="false" append="true">
-            <PatternLayout pattern="%d{HH:mm:ss.SSS} %msg%n"/>
+            <PatternLayout pattern="%d{dd/MMM/yyyy:HH:mm:ss} %msg%n"/>
         </File>
     </Appenders>
     <Loggers>

@@ -13,13 +13,13 @@ public class App
     public static double sqrt(double n){
         if(n<0){
             System.out.println("Invalid input for square root"); 
-            log.info("Invalid input for sqrt(n)"); 
+            log.info("Sqrt " + n + " " + -1 + " 0"); 
             return -1;
         }   
 
         double ans = Math.sqrt(n); 
         
-        log.info("Answer of sqrt(" + n + ") is " + ans); 
+        log.info("Sqrt " + n +" " + ans + " 0"); 
         return ans;  
     }
 
@@ -27,7 +27,7 @@ public class App
     {
         if(n < 0){
             System.out.println("Invalid input for factorial"); 
-            log.info("Invalid input n!"); 
+            log.info("Fact " + n + " " + -1 + " 0"); 
             return -1; 
         }
 
@@ -37,7 +37,7 @@ public class App
             ans *= i; 
         }
 
-        log.info("Answer of " + n + "! is " + ans); 
+        log.info("Fact " + n + " " + ans + " 0"); 
         return ans; 
     }
 
@@ -46,19 +46,19 @@ public class App
         if(n <= 0)
         {
             System.out.println("Invalid input for natural log"); 
-            log.info("Invalid input nl"); 
+            log.info("NaturalLog " + n + " " + -1 + " 0"); 
             return -1; 
         }
 
         double ans = Math.log(n); 
-        log.info("Natural Log for " + n + " is " + ans); 
+        log.info("NaturalLog " + n + " " + ans + " 0"); 
         return ans; 
     }
 
     public static double power(double base , double pow)
     {
         double ans = Math.pow(base , pow); 
-        log.info("Base " + base + " raised to the power " + pow + " is " + ans); 
+        log.info("Power " + base + " " + pow + " " + ans); 
         return ans; 
     }
 
